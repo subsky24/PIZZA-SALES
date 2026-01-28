@@ -81,3 +81,5 @@ These queries formed the analytical backbone of the project before visualization
 ![image-URL](https://github.com/subsky24/PIZZA-SALES/blob/main/images/Screenshot%20(310).png?raw=true)
 
 ![image-URL](https://github.com/subsky24/PIZZA-SALES/blob/main/images/Screenshot%20(311).png?raw=true)
+
+![image-URL](https://github.com/subsky24/PIZZA-SALES/blob/main/images/Screenshot%20(312).png?raw=true)
