@@ -127,6 +127,8 @@ The dashboard enables both high-level monitoring and deep performance analysis.
 
 https://github.com/user-attachments/assets/865127a6-d505-460a-8f86-67ce4b4fc2ce
 
+![image-URL](https://github.com/subsky24/PIZZA-SALES/blob/main/images/Screenshot%20(321).png?raw=true)
+
 
 Key Insights
 Time-Based Demand Patterns
