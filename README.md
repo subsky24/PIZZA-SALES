@@ -126,3 +126,67 @@ The dashboard enables both high-level monitoring and deep performance analysis.
 
 
 https://github.com/user-attachments/assets/865127a6-d505-460a-8f86-67ce4b4fc2ce
+
+
+Key Insights
+Time-Based Demand Patterns
+
+Daily Trends
+
+Orders are highest on weekends, with peak demand on Friday and Saturday evenings.
+
+Monthly Trends
+
+January and July record the highest number of total orders, indicating strong seasonal demand during these periods.
+
+Product Performance
+
+By Category
+
+The Classic pizza category contributes the highest share of total sales and total orders, making it the core revenue driver.
+
+By Size
+
+Large-sized pizzas generate the highest sales, showing a clear customer preference for larger portions.
+
+Best Performing Pizzas
+
+Highest Revenue: Thai Chicken Pizza
+
+Highest Quantity Sold: Classic Deluxe Pizza
+
+Highest Total Orders: Classic Deluxe Pizza
+
+These products consistently outperform others and represent key profit drivers.
+
+
+Worst Performing Pizzas
+
+Lowest Revenue: Brie Carre Pizza
+
+Lowest Quantity Sold: Brie Carre Pizza
+
+Lowest Total Orders: Brie Carre Pizza
+
+This pizza underperforms across all major metrics, indicating low customer demand.
+
+Business Interpretation
+
+Revenue is concentrated around a few high-performing products, particularly within the Classic category.
+
+Customer demand is time-dependent, peaking on weekends and in specific months.
+
+Certain products consistently consume resources without meaningful returns.
+
+
+Recommendations
+
+Increase staffing and inventory during Friday–Saturday peak periods to meet high demand.
+
+Focus promotions on Classic category and Large-sized pizzas, as they drive the majority of revenue.
+
+Leverage Thai Chicken Pizza as a flagship product in marketing campaigns.
+
+Reassess, redesign, or discontinue Brie Carre Pizza due to its persistent underperformance.
+
+Plan targeted promotions and stock optimization for January and July, when demand is highest.
