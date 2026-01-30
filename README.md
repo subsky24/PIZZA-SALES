@@ -91,3 +91,35 @@ These queries formed the analytical backbone of the project before visualization
 ![image-URL](https://github.com/subsky24/PIZZA-SALES/blob/main/images/Screenshot%20(315).png?raw=true)
 
 ![image-URL](https://github.com/subsky24/PIZZA-SALES/blob/main/images/Screenshot%20(316).png?raw=true)
+
+
+
+Dashboard Review (Power BI)
+
+The Power BI dashboard was designed with clarity, storytelling, and business usability in mind.
+
+Key KPIs Displayed:
+
+Total Revenue: 817.76K
+
+Average Order Value: 38.31
+
+Total Pizzas Sold: 49,574
+
+Total Orders: 21,350
+
+Average Pizzas per Order: 2.32
+
+Visual Components:
+
+Daily trend of total orders
+
+Monthly trend of total orders
+
+Sales distribution by pizza category
+
+Sales distribution by pizza size
+
+Best and worst selling pizzas by revenue, quantity, and orders
+
+The dashboard enables both high-level monitoring and deep performance analysis.
