@@ -123,3 +123,6 @@ Sales distribution by pizza size
 Best and worst selling pizzas by revenue, quantity, and orders
 
 The dashboard enables both high-level monitoring and deep performance analysis.
+
+
+https://github.com/user-attachments/assets/865127a6-d505-460a-8f86-67ce4b4fc2ce
